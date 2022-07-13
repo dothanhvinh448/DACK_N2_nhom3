@@ -1,3 +1,0 @@
-Label,# Samples,Average,Median,90% Line,95% Line,99% Line,Min,Max,Error %,Throughput,Received KB/sec,Sent KB/sec
-hoangkien,100,567,542,572,586,842,494,2745,0.000%,9.58222,6463.75,2.23
-TOTAL,100,567,542,572,586,842,494,2745,0.000%,9.58222,6463.75,2.23
